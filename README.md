@@ -1,7 +1,8 @@
 # faster_rcnn_tf_py27
 
 This  is clone from CharlesShang/TFFRCNN 
-I  run in python==2.7,ubuntu==16.04 tensofflow==1.9, Tianxp
+I  run in python==2.7,ubuntu==16.04 tensofflow==1.9, 
+Tianxp
 deom.py run in root
 
 make modiy：
